@@ -1,4 +1,4 @@
-# fb-octo-auto-zrd
+# octo-auto-zrd
 
 Что нужно для работы:
 1. Python 3.9+
